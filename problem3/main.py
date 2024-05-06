@@ -1,5 +1,5 @@
 def prime_number(num):
-    return "error response'
+    return "error response"
 
 if __name__ == '__main__':
     print(prime_number(11)) # "Prime"
